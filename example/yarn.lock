@@ -4906,10 +4906,10 @@ react-is@^16.8.1, react-is@^16.8.3, react-is@^16.8.4:
 "react-native-ping@file:..":
   version "1.2.2"
 
-react-native@0.59.4:
-  version "0.59.4"
-  resolved "http://registry.npm.taobao.org/react-native/download/react-native-0.59.4.tgz#c0725e2e8efdea135533794ce95fea2289fe619a"
-  integrity sha1-wHJeLo796hNVM3lM6V/qIon+YZo=
+react-native@0.59.9:
+  version "0.59.9"
+  resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.59.9.tgz#c94ee4fa35121720c05235a2dd6cdd2784bf5177"
+  integrity sha512-/+8EgIZwFpYHyyJ7Zav7B6LHNrytwUQ+EKGT/QV7HSrgpf2Y5NZNeUYUHKiVKLYpBip1G32/LcAECQj37YRwGQ==
   dependencies:
     "@babel/runtime" "^7.0.0"
     "@react-native-community/cli" "^1.2.1"
